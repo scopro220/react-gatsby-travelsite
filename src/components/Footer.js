@@ -18,23 +18,23 @@ const Footer = () => {
         </FooterDescription>
         <FooterLinkItems>
           <FooterLinkTitle>Contact Us</FooterLinkTitle>
-          <FooterLink to="/about">Contact</FooterLink>
+          <FooterLink to="/">Contact</FooterLink>
           <FooterLink to="/">Support</FooterLink>
-          <FooterLink to="/">Destinations</FooterLink>
+          <FooterLink to="/tripspage">Destinations</FooterLink>
           <FooterLink to="/">Sponsorships</FooterLink>
         </FooterLinkItems>
       </FooterLinksWrapper>
       <FooterLinksWrapper>
         <FooterLinkItems>
           <FooterLinkTitle>Videos</FooterLinkTitle>
-          <FooterLink to="/about">Submit Video</FooterLink>
+          <FooterLink to="/">Submit Video</FooterLink>
           <FooterLink to="/">Ambassadors</FooterLink>
           <FooterLink to="/">Agency</FooterLink>
           <FooterLink to="/">Influencer</FooterLink>
         </FooterLinkItems>
         <FooterLinkItems>
           <FooterLinkTitle>Social Media</FooterLinkTitle>
-          <FooterLink to="/about">
+          <FooterLink to="/">
             <IoLogoInstagram size={20} />
           </FooterLink>
           <FooterLink to="/">
