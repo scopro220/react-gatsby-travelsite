@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../assets/images/travel-1.jpg",
+    "alt": "Ad Deir",
+    "name": "Ad Deir",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel-2.jpg",
+    "alt": "Orange Temple",
+    "name": "Orange Temple",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel-3.jpg",
+    "alt": "Eiffel Tower",
+    "name": "Eiffel Tower",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel-4.jpg",
+    "alt": "Mountains",
+    "name": "Mountains",
+    "button": "View Destination"
+  }
+]
